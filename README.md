@@ -20,4 +20,6 @@ Este é um projeto simples feito em React que permite alternar entre diferentes 
    git clone https://github.com/tonydevpro/mudando-temas-react.git
 
    
-## 🎨 Desenvolvido por Tony Dev
+## 🎨 Desenvolvedor
+
+## Criado por [tonydevpro](https://github.com/tonydevpro).
